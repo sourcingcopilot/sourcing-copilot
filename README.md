@@ -1,2 +1,2 @@
 # sourcing-copilot
-Plataforma de Sourcing e Compras"
+Plataforma de Sourcing e Compras
